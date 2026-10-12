@@ -1,5 +1,7 @@
 # California Housing — Random Forest con MLflow
 
+## Autor: José Alberto Velázquez Trujillo A01369142
+
 ## Descripción
 
 Proyecto de entrenamiento de un modelo de regresión `RandomForestRegressor` para predecir el valor medio de las viviendas del conjunto de datos California Housing.
